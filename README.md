@@ -53,6 +53,8 @@ I've also worked on a custom tool [github_link](https://github.com/Mahrkeenerh/p
 # CIE XYZ model
 I've read through this interesting study (it's also copied here, if the link stopped working): https://graphics.stanford.edu/courses/cs148-10-summer/docs/2010--kerr--cie_xyz.pdf
 
+![cie_xyz](/Images/cie_xyz.png)
+
 And so I've decided to recreate the CIE XYZ model too. This proved a rather hard task, because of the 3 imaginary light sources, but I've come to some result, which I don't really know how to interpret properly, read or whatever. So if anyone wants to continue on this, feel free to.
 
 My goal was to make the whole triangle (even with colors we can't see). I thought it would just take on the nearest color, but that didn't quite work out.
