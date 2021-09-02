@@ -55,6 +55,8 @@ I've read through this interesting study (it's also copied here, if the link sto
 
 And so I've decided to recreate the CIE XYZ model too. This proved a rather hard task, because of the 3 imaginary light sources, but I've come to some result, which I don't really know how to interpret properly, read or whatever. So if anyone wants to continue on this, feel free to.
 
+My goal was to make the whole triangle (even with colors we can't see). I thought it would just take on the nearest color, but that didn't quite work out.
+
 ![cie_all](/Images/cie_all.png)
 
 This model is calculated as a summation of 3 light sources (imaginary). Then it's recalculated to some other color space from left to right: sRGB, Adobe RGB, ProPhoto RGB.
