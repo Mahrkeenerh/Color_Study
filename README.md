@@ -1,3 +1,5 @@
+# WARNING - I have used a wrong color filter (should have used raw instead of standard), so now every image here is wrong.
+
 # Color study
 
 For the past two weeks, I've been working on recreating multiple color models. Everything is done purely mathematically and in blender (python for HSV gradient calculator).
